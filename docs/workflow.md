@@ -87,11 +87,11 @@ All submitted information is stored in a structured Airtable database, serving a
 
 Core modules include:
 
-* Client Relationship Management (CRM)
-* ESG Data Repository
-* Carbon Accounting Engine
-* Document Management
-* Compliance and Risk Tracking
+* Central hub: Client
+* Operations & Data Capture: Faciities, Utility Comsumption, Waste Management, Transport, Employees
+* ESG Mearsurement & Analysis: ESG Assessment, Carbon Calculations, ESG KPIs
+* Governance, & Risk Compliance: Compliance Tracker, Risk
+* Action & Reporting: Sustainability Projects, AI Recomendation, Documents, Reports
 
 ---
 
