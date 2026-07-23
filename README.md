@@ -69,4 +69,4 @@ The Tekstain Nexus ESG Management Platform is designed to help Small and Medium-
 ![ESG1](images/ESG1.png)
 
 ### Grid View
-![ESG](images/ESG.png)
+![ESG](images/ESG3.png)
