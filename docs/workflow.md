@@ -64,9 +64,9 @@ The architecture combines data collection, automation, carbon accounting, analyt
 
 ---
 
-## Workflow Overview
+**Workflow Overview**
 
-### 1. SME Data Collection
+**1. SME Data Collection**
 
 Businesses submit ESG information through Airtable Forms or a client portal. Typical submissions include:
 
@@ -81,7 +81,7 @@ Businesses submit ESG information through Airtable Forms or a client portal. Typ
 
 ---
 
-### 2. Centralized Airtable Database
+**2. Centralized Airtable Database**
 
 All submitted information is stored in a structured Airtable database, serving as the single source of truth for each client's ESG records.
 
@@ -95,7 +95,7 @@ Core modules include:
 
 ---
 
-### 3. Automation Layer
+**3. Automation Layer**
 
 Airtable Automations streamline routine operations by:
 
@@ -108,7 +108,7 @@ Airtable Automations streamline routine operations by:
 
 ---
 
-### 4. Analytics Layer
+**4. Analytics Layer**
 
 The platform transforms raw ESG data into actionable insights through:
 
@@ -121,7 +121,7 @@ The platform transforms raw ESG data into actionable insights through:
 
 ---
 
-### 5. Reporting Layer
+**5. Reporting Layer**
 
 Reports are automatically generated for different stakeholders, including:
 
@@ -142,7 +142,7 @@ Available outputs include:
 
 ---
 
-### 6. Continuous Improvement Cycle
+**6. Continuous Improvement Cycle**
 
 The platform operates as a continuous improvement system rather than a one-time reporting tool.
 
@@ -172,7 +172,7 @@ Report Results
 
 ---
 
-## Technology Stack
+**Technology Stack**
 
 | Layer               | Technology                             |
 | ------------------- | -------------------------------------- |
@@ -188,7 +188,7 @@ Report Results
 
 ---
 
-## Design Principles
+**Design Principles**
 
 * **Affordable:** Built for SMEs with limited budgets.
 * **Simple:** Easy to adopt without dedicated ESG staff.
