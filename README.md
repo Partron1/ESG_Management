@@ -2,15 +2,13 @@
 
 **The Problem**
 
-For many SMEs across Africa, Scope 3 emissions represent the largest and most difficult part of their carbon footprint. These emissions originate throughout the value chain including purchased goods, transportation, business travel, product use, and waste and often account for more than 70% of an organization's total emissions. Yet because they occur outside a company's direct operations, they are notoriously difficult to measure and manage.
+For many SMEs across Africa, GHG emissions are difficult to  calculate. While ESG reporting and carbon disclosure are becoming increasingly important for accessing finance, winning contracts, and meeting supply chain requirements, most carbon accounting platforms are designed for large enterprises. They are often expensive, technically complex, and require dedicated sustainability teams that most African SMEs simply do not have.*
 
-*While ESG reporting and carbon disclosure are becoming increasingly important for accessing finance, winning contracts, and meeting supply chain requirements, most carbon accounting platforms are designed for large enterprises. They are often expensive, technically complex, and require dedicated sustainability teams that most African SMEs simply do not have.*
-
-As a result, thousands of African businesses remain excluded from the growing low-carbon economy—not because they lack commitment, but because they lack affordable, practical tools.
+As a result, thousands of African businesses remain excluded from the growing low-carbon economy, not because they lack commitment, but because they lack affordable practical tools.
 
 **Our Solution**
 
-Tekstain Nexus is building affordable, AI-enabled ESG and carbon management solutions designed specifically for African SMEs.
+Tekstain Nexus is build affordable, AI-enabled ESG and carbon management solutions designed specifically for African SMEs and Cooperate organizations.
 
 *Instead of requiring businesses to adopt costly enterprise software, we combine accessible digital platforms such as Airtable, Microsoft Power BI, and Tableau with internationally recognized ESG frameworks and GHG accounting standards to create a practical, scalable solution.*
 
