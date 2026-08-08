@@ -2,7 +2,7 @@
 
 **The Problem**
 
-For many SMEs across Africa, GHG emissions are difficult to  calculate. While ESG reporting and carbon disclosure are becoming increasingly important for accessing finance, winning contracts, and meeting supply chain requirements, most carbon accounting platforms are designed for large enterprises. They are often expensive, technically complex, and require dedicated sustainability teams that most African SMEs simply do not have.*
+For many SMEs across Africa, GHG emissions are difficult to  calculate. While ESG reporting and carbon disclosure are becoming increasingly important for accessing finance, winning contracts, and meeting supply chain requirements, most carbon accounting platforms are designed for large enterprises. They are often expensive, technically complex, and require dedicated sustainability teams that most African SMEs simply do not have.
 
 As a result, thousands of African businesses remain excluded from the growing low-carbon economy, not because they lack commitment, but because they lack affordable practical tools.
 
@@ -10,7 +10,7 @@ As a result, thousands of African businesses remain excluded from the growing lo
 
 Tekstain Nexus is build affordable, AI-enabled ESG and carbon management solutions designed specifically for African SMEs and Cooperate organizations.
 
-*Instead of requiring businesses to adopt costly enterprise software, we combine accessible digital platforms such as Airtable, Microsoft Power BI, and Tableau with internationally recognized ESG frameworks and GHG accounting standards to create a practical, scalable solution.*
+*Instead of requiring businesses to adopt costly enterprise software, we combine accessible digital platforms such as Airtable, Microsoft Power BI, and Tableau with internationally recognized ESG frameworks and GHG accounting standards to create a practical, scalable solution.
 
 **Our platform enables businesses to:**
 
