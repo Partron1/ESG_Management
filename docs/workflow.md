@@ -1,4 +1,4 @@
-The architecture combines data collection, automation, carbon accounting, analytics, and reporting into a single workflow.
+The architecture combines data collection, automation, GHG accounting, analytics, and reporting into a single workflow.
 
 ```text
                          ┌──────────────────────────┐
@@ -87,11 +87,11 @@ All submitted information is stored in a structured Airtable database, serving a
 
 Core modules include:
 
-* Central hub: Client
-* Operations & Data Capture: Faciities, Utility Comsumption, Waste Management, Transport, Employees
-* ESG Mearsurement & Analysis: ESG Assessment, Carbon Calculations, ESG KPIs
-* Governance, & Risk Compliance: Compliance Tracker, Risk
-* Action & Reporting: Sustainability Projects, AI Recomendation, Documents, Reports
+* **Central hub:** Client
+* **Operations & Data Capture:** Faciities, Utility Comsumption, Waste Management, Transport, Employees
+* **ESG Mearsurement & Analysis:** ESG Assessment, Carbon Calculations, ESG KPIs
+* **Governance, & Risk Compliance:** Compliance Tracker, Risk
+* **Action & Reporting:** Sustainability Projects, AI Recomendation, Documents, Reports
 
 ---
 
@@ -112,7 +112,7 @@ Airtable Automations streamline routine operations by:
 
 The platform transforms raw ESG data into actionable insights through:
 
-* Automated greenhouse gas calculations
+* Automated GHG calculations
 * ESG performance indicators
 * Sustainability scorecards
 * Risk assessments
