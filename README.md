@@ -4,7 +4,7 @@
 
 For many SMEs across Ghana, GHG emissions are difficult to measure. While ESG reporting and carbon disclosure are becoming increasingly important for accessing finance, winning contracts, and meeting supply chain requirements, most GHG accounting and reporting platforms are designed for large enterprises. They are often expensive, technically complex, and require dedicated sustainability teams that most Ghanaian SMEs simply do not have.
 
-As a result, thousands of African businesses remain excluded from the growing low-carbon economy, not because they lack commitment, but because they lack affordable practical tools.
+As a result, thousands of Ghanaian businesses remain excluded from the growing low-carbon economy, not because they lack commitment, but because they lack affordable practical tools.
 
 **Our Solution**
 
