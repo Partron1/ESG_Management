@@ -2,30 +2,30 @@
 
 **The Problem**
 
-For many SMEs across Africa, GHG emissions are difficult to  calculate. While ESG reporting and carbon disclosure are becoming increasingly important for accessing finance, winning contracts, and meeting supply chain requirements, most carbon accounting platforms are designed for large enterprises. They are often expensive, technically complex, and require dedicated sustainability teams that most African SMEs simply do not have.
+For many SMEs across Ghana, GHG emissions are difficult to measure. While ESG reporting and carbon disclosure are becoming increasingly important for accessing finance, winning contracts, and meeting supply chain requirements, most GHG accounting and reporting platforms are designed for large enterprises. They are often expensive, technically complex, and require dedicated sustainability teams that most Ghanaian SMEs simply do not have.
 
 As a result, thousands of African businesses remain excluded from the growing low-carbon economy, not because they lack commitment, but because they lack affordable practical tools.
 
 **Our Solution**
 
-Tekstain Nexus is build affordable, AI-enabled ESG and carbon management solutions designed specifically for African SMEs and Cooperate organizations.
+To build affordable, AI-enabled ESG and carbon management solutions designed specifically for Ghanaian SMEs and Cooperate organizations.
 
-*Instead of requiring businesses to adopt costly enterprise software, we combine accessible digital platforms such as Airtable, Microsoft Power BI, and Tableau with internationally recognized ESG frameworks and GHG accounting standards to create a practical, scalable solution.
+*Instead of requiring businesses to adopt costly enterprise software, we combine accessible digital platforms such as Airtable, Microsoft Power BI, and Tableau with internationally recognized ESG frameworks and GHG accounting standards to create a practical, scalable solution.*
 
-**Our platform enables businesses to:**
+**Our service enables businesses to:**
 
 - Collect sustainability and operational data through simple digital workflows.
 - Measure and track Scope 1, 2, and 3 greenhouse gas emissions.
 - Generate ESG and carbon reports aligned with global reporting standards.
 - Receive AI-driven insights that identify emission hotspots, operational inefficiencies, and opportunities to reduce costs and improve sustainability performance.
 
-*By making carbon accounting accessible, affordable, and actionable, Tekstain Nexus helps African SMEs strengthen their ESG performance, unlock sustainable finance opportunities, meet customer and regulatory expectations, and compete successfully in an increasingly low-carbon global economy.*
+*By making GHG accounting and reporting accessible, affordable and actionable, Tekstain Nexus helps Ghanaian SMEs strengthen their ESG performance, unlock sustainable finance opportunities, meet customer and regulatory expectations, and compete successfully in an increasingly low-carbon global economy.*
 
 **ESG Management Platform**
 
 **System Architecture**
 
-The Tekstain Nexus ESG Management Platform is designed to help Small and Medium-sized Enterprises (SMEs) in Ghana collect, manage, analyze, and report Environmental, Social, and Governance (ESG) data through a centralized Airtable-powered platform.
+The Tekstain Nexus ESG Management service is designed to help Small and Medium-sized Enterprises (SMEs) in Ghana collect, manage, analyze, and report Environmental, Social, and Governance (ESG) data through a centralized Airtable-powered platform.
 
 ```text
                          ┌──────────────────────────┐
