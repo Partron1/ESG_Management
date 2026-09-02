@@ -1,5 +1,20 @@
 ### Tekstain Nexus
 
+**Repository Structure**
+
+```text
+ESG_Management/
+|-- README.md
+|-- docs/
+|   `-- workflow.md
+|-- images/
+|   |-- ESG1.png
+|   `-- ESG3.png
+|-- resource/
+`-- softwares/
+      `-- softwares.exe
+```
+
 **The Problem**
 
 For many SMEs across Ghana, GHG emissions are difficult to measure. While ESG reporting and carbon disclosure are becoming increasingly important for accessing finance, winning contracts, and meeting supply chain requirements, most GHG accounting and reporting platforms are designed for large enterprises. They are often expensive, technically complex, and require dedicated sustainability teams that most Ghanaian SMEs simply do not have.
@@ -95,3 +110,5 @@ The Tekstain Nexus ESG Management service is designed to help Small and Medium-s
 **Grid View**
 
 ![ESG](images/ESG3.png)
+
+
